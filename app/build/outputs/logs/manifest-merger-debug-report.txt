@@ -15,16 +15,26 @@ ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/Android
 		INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml
 application
 ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ravi/.android/build-cache/318456943c2ee38f78577f6edd829f39fff9f109/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ravi/.android/build-cache/d1bbf873b2bacc265063ed9b1793f6e0e726623e/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ravi/.android/build-cache/db46b7c43023ff2e183c41d54dbe0a350dcbfe43/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ravi/.android/build-cache/923d6e86e7ab9321e6494b05495cb7e71486756b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ravi/.android/build-cache/01a59c01242fd39127070f85d281e30b728bf356/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ravi/.android/build-cache/97ad4d4de8df056ece41de69065284e952afdf78/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ravi/.android/build-cache/75cbfddbbe10f622851d337d4047dc5b9fcaa262/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ravi/.android/build-cache/de4e3088e4c0ad068de832f15ef8cfca41e38e11/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ravi/.android/build-cache/95917214962023eeac9d81d23788b2f151eedb4e/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ravi/.android/build-cache/d5640219e52ed3e19376d645d20f539d43e10d04/output/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ravi/.android/build-cache/8d4ced3f74e683e6fb9326897eb09db2b23e7880/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /home/ravi/.android/build-cache/3c6d6a627fee10f1567eb955b2ae63d5a43fda5f/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /home/ravi/.android/build-cache/6209bebdcfafef4b5b6a981c606620bc43578087/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/ravi/.android/build-cache/05d47f65f5c2c58a6a75f25bb377ed01d74e1df3/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/ravi/.android/build-cache/f8c2910adb31339410d191b46b4e31b378401a9a/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/ravi/.android/build-cache/785bf544f02260d39218a2b9b219a0aa4720f628/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/ravi/.android/build-cache/c6af072542713661474a8447b6bdceda0a75036b/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ravi/.android/build-cache/61fdc08294ef2c949d98205c42023fd5b4b798f3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ravi/.android/build-cache/84cf56f28cd33f86ab7ce5d07c7dbeef2724d257/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ravi/.android/build-cache/478259bdb40b8cee21f93b8dcd05e6b40e648ca0/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ravi/.android/build-cache/7cab37cdf3a1630ac348d1d44ea645468427569e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ravi/.android/build-cache/fd368653e05da5d8f0b3c708f5c20ad916c47792/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/ravi/.android/build-cache/3139277bcf37cda567b189c6157b419c949b68f8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ravi/.android/build-cache/6c907c7e460123c880c82c36834f4a11429ce1a3/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/ravi/.android/build-cache/c7572c8da4a64a527196435319435e983ed63268/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/ravi/.android/build-cache/38c0d433934770c760e9a864f39cb60328b191c4/output/AndroidManifest.xml:5:5-20
 	android:label
 		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -53,18 +63,30 @@ ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/Android
 		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ravi/.android/build-cache/318456943c2ee38f78577f6edd829f39fff9f109/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ravi/.android/build-cache/d1bbf873b2bacc265063ed9b1793f6e0e726623e/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ravi/.android/build-cache/db46b7c43023ff2e183c41d54dbe0a350dcbfe43/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ravi/.android/build-cache/923d6e86e7ab9321e6494b05495cb7e71486756b/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ravi/.android/build-cache/01a59c01242fd39127070f85d281e30b728bf356/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ravi/.android/build-cache/97ad4d4de8df056ece41de69065284e952afdf78/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ravi/.android/build-cache/75cbfddbbe10f622851d337d4047dc5b9fcaa262/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ravi/.android/build-cache/de4e3088e4c0ad068de832f15ef8cfca41e38e11/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ravi/.android/build-cache/95917214962023eeac9d81d23788b2f151eedb4e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ravi/.android/build-cache/d5640219e52ed3e19376d645d20f539d43e10d04/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ravi/.android/build-cache/8d4ced3f74e683e6fb9326897eb09db2b23e7880/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /home/ravi/.android/build-cache/e2b7413867696ecec0fbf7c020aca859b6e0d640/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /home/ravi/.android/build-cache/3c6d6a627fee10f1567eb955b2ae63d5a43fda5f/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /home/ravi/.android/build-cache/baf0d4cf6f092d6562da0e94ed2891fa8c19cd9a/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /home/ravi/.android/build-cache/6209bebdcfafef4b5b6a981c606620bc43578087/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/ravi/.android/build-cache/05d47f65f5c2c58a6a75f25bb377ed01d74e1df3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/ravi/.android/build-cache/f8c2910adb31339410d191b46b4e31b378401a9a/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/ravi/.android/build-cache/785bf544f02260d39218a2b9b219a0aa4720f628/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/ravi/.android/build-cache/c6af072542713661474a8447b6bdceda0a75036b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /home/ravi/.android/build-cache/61fdc08294ef2c949d98205c42023fd5b4b798f3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ravi/.android/build-cache/84cf56f28cd33f86ab7ce5d07c7dbeef2724d257/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ravi/.android/build-cache/478259bdb40b8cee21f93b8dcd05e6b40e648ca0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ravi/.android/build-cache/7cab37cdf3a1630ac348d1d44ea645468427569e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ravi/.android/build-cache/fd368653e05da5d8f0b3c708f5c20ad916c47792/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/ravi/.android/build-cache/3139277bcf37cda567b189c6157b419c949b68f8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ravi/.android/build-cache/6c907c7e460123c880c82c36834f4a11429ce1a3/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/ravi/.android/build-cache/c7572c8da4a64a527196435319435e983ed63268/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/ravi/.android/build-cache/38c0d433934770c760e9a864f39cb60328b191c4/output/AndroidManifest.xml:4:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml
@@ -72,16 +94,54 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ravi/
 		INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ravi/.android/build-cache/318456943c2ee38f78577f6edd829f39fff9f109/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ravi/.android/build-cache/d1bbf873b2bacc265063ed9b1793f6e0e726623e/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ravi/.android/build-cache/db46b7c43023ff2e183c41d54dbe0a350dcbfe43/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ravi/.android/build-cache/923d6e86e7ab9321e6494b05495cb7e71486756b/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ravi/.android/build-cache/01a59c01242fd39127070f85d281e30b728bf356/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ravi/.android/build-cache/97ad4d4de8df056ece41de69065284e952afdf78/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ravi/.android/build-cache/75cbfddbbe10f622851d337d4047dc5b9fcaa262/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ravi/.android/build-cache/de4e3088e4c0ad068de832f15ef8cfca41e38e11/output/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ravi/.android/build-cache/95917214962023eeac9d81d23788b2f151eedb4e/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ravi/.android/build-cache/d5640219e52ed3e19376d645d20f539d43e10d04/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/ravi/.android/build-cache/61fdc08294ef2c949d98205c42023fd5b4b798f3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ravi/.android/build-cache/84cf56f28cd33f86ab7ce5d07c7dbeef2724d257/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ravi/.android/build-cache/478259bdb40b8cee21f93b8dcd05e6b40e648ca0/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ravi/.android/build-cache/7cab37cdf3a1630ac348d1d44ea645468427569e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ravi/.android/build-cache/fd368653e05da5d8f0b3c708f5c20ad916c47792/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/ravi/.android/build-cache/3139277bcf37cda567b189c6157b419c949b68f8/output/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/ravi/.android/build-cache/05d47f65f5c2c58a6a75f25bb377ed01d74e1df3/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/ravi/.android/build-cache/05d47f65f5c2c58a6a75f25bb377ed01d74e1df3/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/ravi/.android/build-cache/05d47f65f5c2c58a6a75f25bb377ed01d74e1df3/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/ravi/.android/build-cache/05d47f65f5c2c58a6a75f25bb377ed01d74e1df3/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/ravi/.android/build-cache/c6af072542713661474a8447b6bdceda0a75036b/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/ravi/.android/build-cache/c6af072542713661474a8447b6bdceda0a75036b/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/ravi/.android/build-cache/c6af072542713661474a8447b6bdceda0a75036b/output/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ravi/.android/build-cache/6c907c7e460123c880c82c36834f4a11429ce1a3/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ravi/.android/build-cache/6c907c7e460123c880c82c36834f4a11429ce1a3/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ravi/.android/build-cache/6c907c7e460123c880c82c36834f4a11429ce1a3/output/AndroidManifest.xml:26:13-58

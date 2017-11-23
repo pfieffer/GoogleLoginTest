@@ -1,10 +1,10 @@
 [
     {
         "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "source": "/home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "/home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]
