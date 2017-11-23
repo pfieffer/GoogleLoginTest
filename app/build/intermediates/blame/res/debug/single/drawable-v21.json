@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ravi/.android/build-cache/2e54c8581e03e852658a6ba2717da7000b36f5cb/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

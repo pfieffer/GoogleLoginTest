@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
