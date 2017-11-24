@@ -32,12 +32,12 @@
         "source": "/home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
         "source": "/home/ravi/.android/build-cache/84cf56f28cd33f86ab7ce5d07c7dbeef2724d257/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",

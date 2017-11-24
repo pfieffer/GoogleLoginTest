@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml
@@ -13,8 +13,12 @@ ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/Android
 	android:versionCode
 		INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:7:5-21:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ravi/.android/build-cache/95917214962023eeac9d81d23788b2f151eedb4e/output/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ravi/.android/build-cache/d5640219e52ed3e19376d645d20f539d43e10d04/output/AndroidManifest.xml:22:5-26:19
@@ -36,31 +40,31 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ravi/.android/build-cac
 MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/ravi/.android/build-cache/c7572c8da4a64a527196435319435e983ed63268/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/ravi/.android/build-cache/38c0d433934770c760e9a864f39cb60328b191c4/output/AndroidManifest.xml:5:5-20
 	android:label
-		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:12:9-35
 	android:roundIcon
-		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:11:9-54
 	android:allowBackup
-		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:13:9-40
 activity#np.com.ravi.googlelogintest.MainActivity
-ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
 INJECTED from /home/ravi/AndroidStudioProjects/GoogleLoginTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/AndroidManifest.xml:21:5-23:78
