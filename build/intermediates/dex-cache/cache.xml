@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/ff36d954447b6ea37a6b65f114ddaf15a96a8a01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d6ff091e2c6df07894e5b921671404047d70d3f7">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbb9f244494ef63cbebc32dabf8cd3cbd728aa91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbe3a72c1b7c7e7f19aebacb8f523f9de8913478/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/95917214962023eeac9d81d23788b2f151eedb4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a886f38ee1cecc868a11b21481b0b74556fd4a09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/c6af072542713661474a8447b6bdceda0a75036b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b6f5bd7c33a39d5cb7260f4993d7ac6b345b16b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/84cf56f28cd33f86ab7ce5d07c7dbeef2724d257/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f675984311dcf3044d68e998080c3f65993092e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_5eea9ac1d597f5496c63c231e98f969a0d8e4a2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/baf0d4cf6f092d6562da0e94ed2891fa8c19cd9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d90cb9610620b7631c75f1953a4956810edd4bed">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5bfeaebdaf85cfedfc7c48a16aae526fb2dc4528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/6c907c7e460123c880c82c36834f4a11429ce1a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc481f8c725b4728a793707d1a17dcf834159c88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_70a31606df0ac1df822face228bc7b996c7bec12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/fd368653e05da5d8f0b3c708f5c20ad916c47792/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4be153b0d6db4eb8a5b5c0e07a4d247c8fed3a77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/785bf544f02260d39218a2b9b219a0aa4720f628/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ca6200a9fe9330785a8967a3a4d7dd4c87a9a00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/478259bdb40b8cee21f93b8dcd05e6b40e648ca0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebb6d89152d8609ac61599a1a6c10d0ae20bead7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/7cab37cdf3a1630ac348d1d44ea645468427569e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb67b3ba37725fd8bad1ea770799c65896ef0f45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/3139277bcf37cda567b189c6157b419c949b68f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd720661847d2b9f4cf42af27a74610844b53cc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/e2b7413867696ecec0fbf7c020aca859b6e0d640/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="269771e258a0d07bc8f5213f1f5ed77e8f42d72f">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f07eb92de9a8074e28b91ae3d2d9c411c07156b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/05d47f65f5c2c58a6a75f25bb377ed01d74e1df3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acecf726263e95e1481470168d436db97e8246f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/d5640219e52ed3e19376d645d20f539d43e10d04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02ec87945a0746cdab5acbe10f0dc61b368f743b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_cbc0b09e1c194e468b944d36e9668a8499b4e81a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/689fdaf957d885776dfa8d35e5b8381092a66621/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c1958882e30fcb1fb4007853bce0e70b0ceda1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/61fdc08294ef2c949d98205c42023fd5b4b798f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5093065c11b8eb8c778b898f391549b4cf2154df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c0e673870ce21e501cf91b277dd98764462fd279">
+        <dex dex="/home/ravi/AndroidStudioProjects/GoogleLoginTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_919cd07b943cbd6ab0ddefa4657803942b9fc603/classes.dex" />
+    </item>
+
+</items>
